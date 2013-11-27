@@ -1,6 +1,7 @@
 git-flow-cheatsheet
 ===================
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/giordan83/git-flow-cheatsheet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 A cheatsheet on the usage of git flow, visit http://giordan83.github.com/git-flow-cheatsheet/
 
 GIT FLOW
